@@ -1,4 +1,4 @@
-the screen was recreated as close as possible, was based on this first screen </br></br>
+the screen was recreated as close as possible, was based on this first screen, the project has make with react native (android) </br></br>
 
 https://dribbble.com/shots/25869703-Food-Delivery-Mobile-App-UI-UX-Design </br></br>
 
